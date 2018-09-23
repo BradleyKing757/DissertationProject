@@ -1,5 +1,8 @@
 # ZombieApocalypse
-These are the C# files which I worked on by myself for the dissertation project. 
-FPSController
-Weapon
-Inventory
+These are the C# classes which I worked on by myself for the dissertation project.
+  
+The classes to best demonstrate my development skills are:
+  FPSController
+  Weapon
+  WeaponManager
+  FriendlyAI
